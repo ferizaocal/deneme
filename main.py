@@ -1,0 +1,1 @@
+print("feriza nur öcal")
